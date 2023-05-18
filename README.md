@@ -1,0 +1,1 @@
+# script-monitoramento-zabbix
